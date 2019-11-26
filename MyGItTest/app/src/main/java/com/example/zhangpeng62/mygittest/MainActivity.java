@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         test = (TextView) findViewById(R.id.test);
         test.setText("test");
         test.setTextColor(Color.GREEN);
+        test.setTextSize(14);
     }
 }
