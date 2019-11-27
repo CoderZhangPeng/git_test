@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         test.setTextColor(Color.GREEN);
 
         test.setTextSize(14);
-        
+
 
         test.setText("branch 2");
     }
